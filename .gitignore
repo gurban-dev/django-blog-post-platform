@@ -5,7 +5,7 @@ node_modules
 
 # The trailing slash ensures that Git ignores
 # the entire directory and its content.
-venv/
+.blog-platform-venv/
 
 db.sqlite3
 
